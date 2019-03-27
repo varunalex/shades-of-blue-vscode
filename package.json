@@ -1,0 +1,19 @@
+{
+    "name": "shades-of-blue",
+    "displayName": "Shades Of Blue",
+    "description": "🦄 Shades of Blue — A professional theme with hand-picked & bold & italic shades of blue to go along with your VSCode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Shades Of Blue",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Shades Of Blue-color-theme.json"
+        }]
+    }
+}
