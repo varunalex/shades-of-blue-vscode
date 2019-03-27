@@ -1,13 +1,35 @@
 # README
-## This is the README for your extension "shades-of-blue"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Yo Theme for VSCode
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> 🦄 Shades of Blue — A professional theme with hand-picked & bold & italic shades of blue to go along with your VSCode.
+
+### Screenshot
+
+#### Javascript/JSX
+
+![drawing](https://raw.githubusercontent.com/varunalex/shades-of-blue-vscode/master/Capture1.PNG)
+
+#### PHP
+
+![drawing](https://raw.githubusercontent.com/varunalex/shades-of-blue-vscode/master/Capture2.PNG)
+
+#### Golang
+
+![drawing](https://raw.githubusercontent.com/varunalex/shades-of-blue-vscode/master/Capture3.PNG)
+
+#### Python
+
+![drawing](https://raw.githubusercontent.com/varunalex/shades-of-blue-vscode/master/Capture4.PNG)
+
+### Git Repo
+
+[Shades Of Blue](https://github.com/varunalex/shades-of-blue-vscode)
+
+### Team
+
+[![drawing](https://avatars1.githubusercontent.com/u/24926575?s=60&v=4)](https://github.com/varunalex/)
+
+Feel Free to contribute!
 
 **Enjoy!**
