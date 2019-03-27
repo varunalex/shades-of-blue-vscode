@@ -713,6 +713,7 @@
 		"list.inactiveSelectionBackground": "#152037",
 		"list.dropBackground": "#041D52",
 		"list.highlightForeground": "#0063a5",
+		"list.warningForeground": "#ff9c1b",
 		"scrollbar.shadow": "#515E91AA",
 		"scrollbarSlider.activeBackground": "#3B3F5188",
 		"scrollbarSlider.background": "#1F2230AA",
