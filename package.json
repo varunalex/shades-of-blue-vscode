@@ -3,6 +3,8 @@
     "displayName": "Shades Of Blue",
     "description": "🦄 Shades of Blue — A professional theme with hand-picked & bold & italic shades of blue to go along with your VSCode.",
     "version": "0.0.1",
+    "icon": "icon.png",
+    "repository": "https://github.com/varunalex/shades-of-blue-vscode",
     "engines": {
         "vscode": "^1.32.0"
     },
