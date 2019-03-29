@@ -1,22 +1,24 @@
 {
-    "name": "shades-of-blue",
-    "displayName": "Shades Of Blue",
-    "description": "🦄 Shades of Blue — A professional theme with hand-picked & bold & italic shades of blue to go along with your VSCode.",
-    "version": "0.0.1",
-    "publisher": "shades-of-blue",
-    "icon": "icon.png",
-    "repository": "https://github.com/varunalex/shades-of-blue-vscode",
-    "engines": {
-        "vscode": "^1.32.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [{
-            "label": "Shades Of Blue",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Shades Of Blue-color-theme.json"
-        }]
-    }
+  "name": "shades-of-blue",
+  "displayName": "Shades Of Blue",
+  "description": "🦄 Shades of Blue — A professional theme with hand-picked & bold & italic shades of blue to go along with your VSCode.",
+  "version": "0.1.1",
+  "publisher": "shades-of-blue",
+  "icon": "icon.png",
+  "repository": "https://github.com/varunalex/shades-of-blue-vscode",
+  "engines": {
+    "vscode": "^1.32.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shades Of Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shades Of Blue-color-theme.json"
+      }
+    ]
+  }
 }
