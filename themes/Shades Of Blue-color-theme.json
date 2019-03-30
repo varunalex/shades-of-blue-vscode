@@ -40,6 +40,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#cd82ff"
       }
     },
@@ -66,7 +67,7 @@
       "name": "keyword",
       "scope": ["keyword.control"],
       "settings": {
-        // "fontStyle": "italic",
+        "fontStyle": "italic",
         "foreground": "#ff6565"
       }
     },
@@ -91,7 +92,6 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#05aa91"
       }
     },
@@ -122,7 +122,7 @@
         "keyword.other"
       ],
       "settings": {
-        // "fontStyle": "bold",
+        "fontStyle": "italic",
         "foreground": "#ffa733"
       }
     },
@@ -137,8 +137,8 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        // "fontStyle": "italic",
-        "foreground": "#ebfad6"
+        "fontStyle": "italic",
+        "foreground": "#ebfad6cb"
       }
     },
     {
@@ -193,7 +193,7 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "bold italic",
+        "fontStyle": "bold",
         "foreground": "#FF5370"
       }
     },
@@ -307,7 +307,7 @@
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "bold italic",
+        "fontStyle": "bold",
         "foreground": "#FF5370"
       }
     },
@@ -732,7 +732,7 @@
     // "statusBar.foreground": "",
     "statusBarItem.prominentBackground": "#0063a5",
     "statusBarItem.prominentHoverBackground": "#0063a5dd",
-    // "statusBarItem.activeBackground": "",
+    "statusBarItem.activeBackground": "#ff5555",
     // "statusBarItem.hoverBackground": "",
     // Workbench: Debug
     "debugToolBar.background": "#051336",
