@@ -2,7 +2,7 @@
 
 ## Yo Theme for VSCode
 
-> 🦄 Shades of Blue — A professional theme with hand-picked & bold & italic shades of blue to go along with your VSCode.
+> Shades of Blue — A professional blue color oriented theme your VSCode.
 
 ### Screenshot
 
