@@ -1,8 +1,8 @@
 # README
 
-## Yo Theme for VSCode
+## Yo Theme for VSCode > Shades of blue
 
-> Shades of Blue — A professional blue color oriented theme your VSCode.
+> Shades of Blue — A professional blue color oriented theme for VSCode.
 
 ### Screenshot
 
